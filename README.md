@@ -6,7 +6,7 @@
 
 I'm a guy who enjoys building websites for fun and open sourcing them. I started with HTML, CSS, and JavaScript and I'm looking to expand my skills in front-end development with other web technologies. Here's a bit more about me:
 
-- 🔭 I’m currently working on: revamping my [personal website](https://theparash.github.io).
+- 🔭 I’m currently working on: revamping my [personal website](https://parashphuyel.com.np).
 - 🌱 I’m currently learning: more about front-end development and other web technologies.
 - 👯 I’m looking to collaborate on: open source projects or anything that sounds fun and challenging!
 - 💬 Ask me about: my experience working with HTML, CSS, and JavaScript.
